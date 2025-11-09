@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UA/8E040VXEM7Z706YF99WUJY.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/BaseEnemy/BP_EnemyBase.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/RifleEnemy/BP_Rifle_Enemy.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/SwordEnemy/BP_Sword_Enemy.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/BP_PatrolRoute.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/BehaviourTrees/BehaviourTreeTasks/BTT_LookAround.uasset",
+				"C:/Users/lewis/OneDrive/Documents/GitHub/KagemushaAI/KagemushaAI/Content/Ai/BehaviourTrees/BehaviourTreeTasks/BTT_Patrolling.uasset",
 				"C:/Users/u2479232/Downloads/KagemushaAI/KagemushaAI/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/UA/8E040VXEM7Z706YF99WUJY.uasset",
 				"C:/Users/u2479232/Downloads/KagemushaAI/KagemushaAI/Content/Ai/BaseEnemy/BP_EnemyBase.uasset",
 				"C:/Users/u2479232/Downloads/KagemushaAI/KagemushaAI/Content/Ai/BaseEnemy/CharacterMesh/standardSurface1.uasset",
